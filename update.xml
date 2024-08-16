@@ -1,7 +1,7 @@
 <configuration>
     <files>
         <file>
-            <uri>https://github.com/jesli96/sample_releases/blob/main/updatedep-0.0.1-SNAPSHOT.jar</uri> <!-- Path to the updated JAR file on the server -->
+            <uri>https://raw.githubusercontent.com/jesli96/sample_releases/main/updatedep-0.0.1-SNAPSHOT.jar</uri> <!-- Path to the updated JAR file on the server -->
             <path>updatedep.jar</path> <!-- Path to the file in the local directory -->
             <classpath>true</classpath> <!-- This file should be included in the classpath -->
             <size>100039118</size> <!-- Size of the file in bytes -->
