@@ -1,0 +1,12 @@
+<configuration>
+    <files>
+        <file>
+            <uri>https://github.com/jesli96/sample_releases/blob/main/updatedep-0.0.1-SNAPSHOT.jar</uri> <!-- Path to the updated JAR file on the server -->
+            <path>updatedep.jar</path> <!-- Path to the file in the local directory -->
+            <classpath>true</classpath> <!-- This file should be included in the classpath -->
+            <size>100039118</size> <!-- Size of the file in bytes -->
+            <checksum>32bac9e34f6ca11238d50f1cebfba4882b00fd5a0a221ec65165ef6227a4f5e184994bc912712ed31b6c7e11cc8ac84be151f37532f0a24037bc3cb03c41dcaf</checksum> <!-- SHA-256 checksum of the file -->
+        </file>
+        <!-- Add more files as needed -->
+    </files>
+</configuration>
