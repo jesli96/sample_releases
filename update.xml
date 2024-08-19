@@ -1,6 +1,6 @@
 <configuration>
     <properties>
-        <property key="default.launcher.main.class" value="com.teamextension.updatedep.UpdateDepApplication" />
+        <property key="default.launcher.main.class" value="org.update4j.Bootstrap" />
     </properties>
     <files>
         <file uri="https://raw.githubusercontent.com/jesli96/sample_releases/main/updatedep-0.0.1-SNAPSHOT.jar" path="${user.dir}/updatedep.jar" size="100039118" classpath="true" checksum="d3124af7"/>
