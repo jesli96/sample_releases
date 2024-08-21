@@ -3,6 +3,6 @@
         <property key="default.launcher.main.class" value="com.teamextension.updatedep.UpdateDepApplicationKt" />
     </properties>
     <files>
-        <file uri="https://raw.githubusercontent.com/jesli96/sample_releases/main/updatedep-0.0.1-SNAPSHOT.jar" path="${user.dir}/updatedep.jar" size="100039118" classpath="true" checksum="d3124af7"/>
+        <file uri="https://github.com/jesli96/sample_releases/releases/download/v1.0.2/updatedep-1.0.2.jar" path="${user.dir}/updatedep.jar" size="100174484" classpath="true" checksum="d3124af7"/>
     </files>
 </configuration>
