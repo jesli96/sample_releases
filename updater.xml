@@ -1,5 +1,5 @@
 <configuration>
     <files>
-        <file uri="https://raw.githubusercontent.com/jesli96/sample_releases/main/updatedep-upgrader-1.0.0.jar" path="${user.dir}/updater.jar" size="13979724" classpath="true" checksum="73d48e37"/>
+        <file uri="https://raw.githubusercontent.com/jesli96/sample_releases/main/updatedep-upgrader-1.0.0.jar" path="${user.dir}/updater.jar" size="13980600" classpath="true" checksum="73d48e37"/>
     </files>
 </configuration>
